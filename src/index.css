@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+button {
+  @apply text-white font-bold py-2 px-4 rounded cursor-pointer;
+}
+
+:root {
+  @apply flex flex-col mt-10 justify-center  bg-gray-100;
+}
